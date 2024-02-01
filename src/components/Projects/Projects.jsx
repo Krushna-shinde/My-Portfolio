@@ -25,8 +25,8 @@ function Projects() {
               isBlog={false}
               title="Flashcard Generator "
               description="This is a Single Page application created using ReactJs. All responsive design are developed using TailwindCss framework. React icons also used. In this app user can make a flashcard as per there information. This project has three pages CreateFlashcard, MyFlashcard and last FlashcardDetails Page. "
-              ghLink="https://flashcard-generator-krushna-shindes-projects.vercel.app/"
-              demoLink="https://flashcard-generator-two.vercel.app/myflashcard"
+              ghLink="https://github.com/Krushna-shinde/Flashcard-Generator"
+              demoLink="https://flashcard-generator-krushna-shindes-projects.vercel.app/"
             />
           </Col>
 
@@ -47,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="My Portfolio"
               description="This is my portfolio app. I make this this app using create-react-app. I design this app using bootstrap framework. This is responsive app. In this app i tried to explained myself in brief. I have added my resume and all information about me. I added my all projects or recent work also. "
-              ghLink="https://github.com/Krushna-shinde/my_portfolio"
-              demoLink="https://krushna-shinde.github.io/my_portfolio/"
+              ghLink="https://github.com/Krushna-shinde/My-Portfolio"
+              demoLink="https://my-portfolio-krushna-shindes-projects.vercel.app/"
             />
           </Col>
 
